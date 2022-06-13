@@ -1,3 +1,6 @@
+# 用本组修改的DeepTTE.py文件替换libcity\model\eta中的DeepTTE.py即可
+
+
 ![](https://bigscity-libcity-docs.readthedocs.io/en/latest/_images/logo.png)
 
 ------
